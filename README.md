@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Vinícius%20Felix&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Banner" width="100%"/>
 
-<h1 align="center">👋 Olá, eu sou o Vinícius Felix</h1>
+<h1 align="center"> Olá, eu sou o Vinícius Felix</h1>
 
 <p align="center">
 🎓 Estudante de Desenvolvimento de Sistemas no SESI / SENAI<br>
 💻 Focado em Python e Java <br>
 🔐 Interessado em Desenvolvimento de Softwares <br>
-🚀 Em constante evolução e aprendizado
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim:
 
 💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos
 
@@ -34,7 +33,6 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
