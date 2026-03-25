@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Vinícius Felix</h1>
 
-<!--
-**VnnFelix/VnnFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Desenvolvimento de Sistemas <br>
+💻 Focado em Python e Java <br>
+🔐 Interessado em Desenvolvimento de Softwares <br>
+🚀 Em constante evolução
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos
+
+📚 Sempre aprendendo e evoluindo na área de tecnologia
+
+⚖️ Atualmente decidindo entre seguir como **Desenvolvedor de Software**
+
+🎯 Buscando me tornar um profissional completo na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- Lógica de programação
+- Estruturas de dados
+- Desenvolvimento de sistemas
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor
+- Criar projetos próprios
+- Conseguir minha primeira oportunidade na área
+
+---
+
+## ⚡ Curiosidades
+
+- Gosto de aprender na prática
+- Curto tecnologia e inovação
+- Sempre buscando melhorar um pouco todo dia
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
