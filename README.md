@@ -23,13 +23,10 @@
 
 ## 🛠️ Tecnologias
 
-<div align="center">
-
-  [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+<div style="display: flex; gap: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Ícone do Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Ícone do Java" />
 </div>
-
 ---
 
 ## 📚 Atualmente estudando
